@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<workers>
+	<worker>
+		<workerid>1</workerid>
+		<workername>Kiss Géza</workername>
+		<job>rendszermérnök</job>
+		<salary>600000</salary>
+		<hiredate>2008.04.04</hiredate>
+	</worker>
+	<worker>
+		<workerid>2</workerid>
+		<workername>Nagy Eszter</workername>
+		<job>tesztelő</job>
+		<salary>400000</salary>
+	</worker>
+	<worker>
+		<workerid>3</workerid>
+		<workername>Kovács Rebeka</workername>
+		<job>tesztelő</job>
+		<salary>400000</salary>
+		<hiredate>2017.05.12</hiredate>
+	</worker>
+	<worker>
+		<workerid>4</workerid>
+		<workername>Tóth Andor</workername>
+		<job>rendszermérnök</job>
+		<salary>650000</salary>
+		<hiredate>2017.02.10</hiredate>
+		<diploma>BSc</diploma>
+	</worker>
+	<worker>
+		<workerid>5</workerid>
+		<workername>Takács Zsolt</workername>
+		<job>architect</job>
+		<salary>750000</salary>
+		<hiredate>2019.01.08</hiredate>
+		<diploma>BSc</diploma>
+	</worker>
+	<worker>
+		<workerid>6</workerid>
+		<workername>Kristóf Béla</workername>
+		<job>fejlesztő</job>
+		<salary>620000</salary>
+		<hiredate>2019.03.15</hiredate>
+		<diploma>BSc</diploma>
+	</worker>
+	<worker>
+		<workerid>7</workerid>
+		<workername>Nagy Anikó</workername>
+		<job>fejlesztő</job>
+		<salary>800000</salary>
+		<hiredate>2017.02.10</hiredate>
+		<diploma>MSc</diploma>
+	</worker>
+	<worker>
+		<workerid>8</workerid>
+		<workername>Várkonyi Tamás</workername>
+		<job>vezérigazgató</job>
+		<salary>2000000</salary>
+		<hiredate>2017.02.10</hiredate>
+		<diploma>MSc</diploma>
+	</worker>
+	<worker>
+		<workerid>9</workerid>
+		<workername>Balogh-Szalai Tünde</workername>
+		<job>devops mérnök</job>
+		<salary>740000</salary>
+		<hiredate>2017.02.10</hiredate>
+	</worker>
+	<worker>
+		<workerid>10</workerid>
+		<workername>Nyírő Attila</workername>
+		<job>fejlesztő</job>
+		<salary>680000</salary>
+		<hiredate>2018.12.10</hiredate>
+		<diploma>BSc</diploma>
+	</worker>
+	<worker>
+		<workerid>11</workerid>
+		<workername>Horváth Attila Tamás</workername>
+		<job>devops mérnök</job>
+		<salary>550000</salary>
+	</worker>
+</workers>

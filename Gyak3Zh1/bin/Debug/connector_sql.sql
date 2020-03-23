@@ -1,0 +1,44 @@
+IF OBJECT_ID('connector', 'U') IS NOT NULL DROP TABLE connector;
+ 
+CREATE TABLE connector (
+    connId int NOT NULL,
+    projectId int NOT NULL,
+    workerId int NOT NULL
+    CONSTRAINT CONNECTOR_PRIMARY_KEY PRIMARY KEY (connId));
+   
+
+INSERT INTO connector VALUES (1,1,1);
+INSERT INTO connector VALUES (2,1,3);
+INSERT INTO connector VALUES (3,1,4);
+INSERT INTO connector VALUES (4,2,9);
+INSERT INTO connector VALUES (5,2,1);
+INSERT INTO connector VALUES (6,2,3);
+INSERT INTO connector VALUES (7,2,11);
+INSERT INTO connector VALUES (8,3,2);
+INSERT INTO connector VALUES (9,3,1);
+INSERT INTO connector VALUES (10,3,9);
+INSERT INTO connector VALUES (11,3,4);
+INSERT INTO connector VALUES (12,3,10);
+INSERT INTO connector VALUES (13,4,3);
+INSERT INTO connector VALUES (14,4,4);
+INSERT INTO connector VALUES (15,4,1);
+INSERT INTO connector VALUES (16,4,9);
+INSERT INTO connector VALUES (17,5,10);
+INSERT INTO connector VALUES (18,5,3);
+INSERT INTO connector VALUES (19,5,9);
+INSERT INTO connector VALUES (20,5,1);
+INSERT INTO connector VALUES (21,6,4);
+INSERT INTO connector VALUES (22,6,3);
+INSERT INTO connector VALUES (23,6,11);
+INSERT INTO connector VALUES (24,7,10);
+INSERT INTO connector VALUES (25,7,11);
+INSERT INTO connector VALUES (26,7,1);
+INSERT INTO connector VALUES (27,7,2);
+INSERT INTO connector VALUES (28,7,3);
+INSERT INTO connector VALUES (29,8,1);
+INSERT INTO connector VALUES (30,8,2);
+INSERT INTO connector VALUES (31,8,3);
+INSERT INTO connector VALUES (32,8,4);
+INSERT INTO connector VALUES (33,8,9);
+INSERT INTO connector VALUES (34,8,10);
+INSERT INTO connector VALUES (35,8,11);

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ConnectorModelStoreContainer" CdmEntityContainer="ConnectorEntities">
+    <EntitySetMapping Name="connector">
+      <EntityTypeMapping TypeName="ConnectorModel.connector">
+        <MappingFragment StoreEntitySet="connector">
+          <ScalarProperty Name="connId" ColumnName="connId" />
+          <ScalarProperty Name="projectId" ColumnName="projectId" />
+          <ScalarProperty Name="workerId" ColumnName="workerId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

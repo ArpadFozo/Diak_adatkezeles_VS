@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<projects>
+	<project>
+		<projectid>1</projectid>
+		<projectname>Felhő alapú fizetési megoldás</projectname>
+		<customer>MOL Zrt.</customer>
+		<cost>2000</cost>
+		<projectmanager>5</projectmanager>
+	</project>
+	<project>
+		<projectid>2</projectid>
+		<projectname>Portfolio weboldal</projectname>
+		<customer>Tóth Csaba e.v.</customer>
+		<cost>300</cost>
+		<projectmanager>6</projectmanager>
+	</project>
+	<project>
+		<projectid>3</projectid>
+		<projectname>5G hálózathoz monitoring rendszer</projectname>
+		<customer>Magyar Telekom</customer>
+		<cost>5000</cost>
+		<projectmanager>5</projectmanager>
+	</project>
+	<project>
+		<projectid>4</projectid>
+		<projectname>Üzleti intelligencia projekt</projectname>
+		<customer>Mol Zrt.</customer>
+		<cost>1500</cost>
+		<projectmanager>8</projectmanager>
+	</project>
+	<project>
+		<projectid>5</projectid>
+		<projectname>Biometrikus beléptetőkapu</projectname>
+		<customer>Magyar Telekom</customer>
+		<cost>1000</cost>
+		<projectmanager>7</projectmanager>
+	</project>
+	<project>
+		<projectid>6</projectid>
+		<projectname>Mobil alkalmazás</projectname>
+		<customer>Rizmajer Sörfőzde</customer>
+		<cost>1000</cost>
+		<projectmanager>7</projectmanager>
+	</project>
+	<project>
+		<projectid>7</projectid>
+		<projectname>Elnökséget imitáló chatbot</projectname>
+		<customer>NIK HÖK</customer>
+		<cost>150</cost>
+		<projectmanager>6</projectmanager>
+	</project>
+	<project>
+		<projectid>8</projectid>
+		<projectname>Okos benzinkút</projectname>
+		<customer>Mol Zrt.</customer>
+		<cost>90000</cost>
+		<projectmanager>8</projectmanager>
+	</project>
+</projects>
