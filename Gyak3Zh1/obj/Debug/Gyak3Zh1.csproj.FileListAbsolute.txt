@@ -24,3 +24,17 @@ D:\suli\Prog3\Gyak3Zh1\Gyak3Zh1\obj\Debug\Gyak3Zh1.csproj.CoreCompileInputs.cach
 D:\suli\Prog3\Gyak3Zh1\Gyak3Zh1\obj\Debug\Gyak3Zh1.csproj.CopyComplete
 D:\suli\Prog3\Gyak3Zh1\Gyak3Zh1\obj\Debug\Gyak3Zh1.exe
 D:\suli\Prog3\Gyak3Zh1\Gyak3Zh1\obj\Debug\Gyak3Zh1.pdb
+C:\Users\farpi\Documents\GitHub\prog3Zh1Gyak\Gyak3Zh1\bin\Debug\Connector.mdf
+C:\Users\farpi\Documents\GitHub\prog3Zh1Gyak\Gyak3Zh1\bin\Debug\Connector_log.ldf
+C:\Users\farpi\Documents\GitHub\prog3Zh1Gyak\Gyak3Zh1\bin\Debug\Gyak3Zh1.exe.config
+C:\Users\farpi\Documents\GitHub\prog3Zh1Gyak\Gyak3Zh1\bin\Debug\Gyak3Zh1.exe
+C:\Users\farpi\Documents\GitHub\prog3Zh1Gyak\Gyak3Zh1\bin\Debug\Gyak3Zh1.pdb
+C:\Users\farpi\Documents\GitHub\prog3Zh1Gyak\Gyak3Zh1\bin\Debug\EntityFramework.dll
+C:\Users\farpi\Documents\GitHub\prog3Zh1Gyak\Gyak3Zh1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\farpi\Documents\GitHub\prog3Zh1Gyak\Gyak3Zh1\bin\Debug\EntityFramework.xml
+C:\Users\farpi\Documents\GitHub\prog3Zh1Gyak\Gyak3Zh1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\farpi\Documents\GitHub\prog3Zh1Gyak\Gyak3Zh1\obj\Debug\Gyak3Zh1.csprojAssemblyReference.cache
+C:\Users\farpi\Documents\GitHub\prog3Zh1Gyak\Gyak3Zh1\obj\Debug\Gyak3Zh1.csproj.CoreCompileInputs.cache
+C:\Users\farpi\Documents\GitHub\prog3Zh1Gyak\Gyak3Zh1\obj\Debug\Gyak3Zh1.csproj.CopyComplete
+C:\Users\farpi\Documents\GitHub\prog3Zh1Gyak\Gyak3Zh1\obj\Debug\Gyak3Zh1.exe
+C:\Users\farpi\Documents\GitHub\prog3Zh1Gyak\Gyak3Zh1\obj\Debug\Gyak3Zh1.pdb
